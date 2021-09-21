@@ -1,6 +1,6 @@
 #declare variables
 $GitHubUsername='Sanchez2047'
-$PracticeRepoDir='$powershell-practice'
+$PracticeRepoDir='powershell-practice'
 $CommitMessage='Auto committed from auto-committing-setup.ps1!'
 
 #fork and lcone this repo in the powershell-studio directory
